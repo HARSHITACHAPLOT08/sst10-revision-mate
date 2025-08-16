@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # 📚 SST 10 Revision Mate
 
 An interactive **Revision + Quiz Web App** for Class 10 Social Science students (CBSE & RBSE).  
@@ -116,7 +116,7 @@ This project is open-source under the MIT License.
 
 ---
 
-=======
+
 # sst10-revision-mate
 Interactive Streamlit app for Class 10 Social Science revision and quizzes (History & Geography).
->>>>>>> eb2f0fd5c8aba541e02ee41b7df2594431a24c73
+eb2f0fd5c8aba541e02ee41b7df2594431a24c73
